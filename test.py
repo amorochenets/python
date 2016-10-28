@@ -1,10 +1,19 @@
+# !/usr/bin/env python3
+# coding UTF-8
 
-def checkio(number):
-    if not int(number)%3 and not int(number)%5 :
-        number = 'Fizz Buzz'
-    elif not int(number)%3 :
-        number = 'Fizz'
-    elif not int(number)%5 :
-        number = 'Buzz'  
-    return str(number)
-print(checkio(135))
+from tkinter import *
+counter = 'rest'
+def printer(event):
+    count = 'er'
+    print('Now counter is %s' % count)
+    return count
+
+root = Tk()
+but = Button(root,
+             text='Print',
+             height=4, width=16,
+             bg='blue', fg='yellow')
+# but['text'] = 'Print'
+but.bind("<Button-1>",printer)
+but.pack()
+root.mainloop()

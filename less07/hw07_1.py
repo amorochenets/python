@@ -13,6 +13,13 @@ deptCounter = {
     'rec': 13,
     'rm': 28
 }
+
+def printDist(dist):
+    print('Here is the list of departments:')
+    print('-'*22)
+    for key in dist:
+        print('| %10s | %5s |' % (key, dist[key]))
+        print('-' * 22)
 numOfAll = 0
 listOfDept = list(deptCounter.keys())
 while True:
@@ -59,4 +66,4 @@ if editTrigger.lower() in ('y', 'yes'):
         breakPoint = input('Exit from "Edit mode"? (y/N): ')
         if breakPoint.lower() in ('y', 'yes'):
             break
-print(deptCounter)
+printDist(deptCounter)
