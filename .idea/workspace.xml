@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fe28cd3-72eb-4cc4-9bd9-3f7e843db77d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less08/hw08_1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less08/file1.txt" afterPath="$PROJECT_DIR$/less08/file1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less08/less08_3.py" afterPath="$PROJECT_DIR$/less08/less08_3.py" />
-    </list>
+    <list default="true" id="3fe28cd3-72eb-4cc4-9bd9-3f7e843db77d" name="Default" comment="" />
     <ignored path="python.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,8 +84,8 @@
       <file leaf-file-name="hw08_1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/less08/hw08_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+            <state relative-caret-position="450">
+              <caret line="25" column="0" selection-start-line="17" selection-start-column="20" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -880,8 +875,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/less08/hw08_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        <state relative-caret-position="450">
+          <caret line="25" column="0" selection-start-line="17" selection-start-column="20" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
